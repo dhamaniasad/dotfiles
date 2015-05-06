@@ -1,0 +1,12 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/Solarized-dark (SL).tmTheme",
+    "detect_indentation": false,
+    "ignored_packages":
+    [
+        "Vintage",
+        "CSS"
+    ],
+    "tab_size": 4,
+    "theme": "Soda Light.sublime-theme",
+    "translate_tabs_to_spaces": true
+}

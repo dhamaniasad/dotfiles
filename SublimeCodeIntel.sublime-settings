@@ -1,0 +1,9 @@
+{
+  "codeintel": true,
+  "codeintel_disabled_languages":
+  [
+    "html",
+    "python",
+    "jinja2"
+  ]
+}
