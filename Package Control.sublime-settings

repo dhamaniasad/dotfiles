@@ -1,0 +1,46 @@
+{
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Anaconda",
+        "ApplySyntax",
+        "AutoPEP8",
+        "Autoprefixer",
+        "Bootstrap 3 Snippets",
+        "BracketHighlighter",
+        "Can I Use",
+        "caniuse_local",
+        "Color Highlighter",
+        "Colorsublime",
+        "CSS Extended Completions",
+        "CSS3",
+        "DocBlockr",
+        "Emmet",
+        "Gist",
+        "GitGutter",
+        "Gitignore",
+        "HTMLBeautify",
+        "Javascript Beautify",
+        "JavaScript Completions",
+        "JavaScript Snippets",
+        "Jinja2",
+        "jQuery",
+        "JSHint",
+        "LiveReload",
+        "Markdown Preview",
+        "Package Control",
+        "Search Anywhere",
+        "Search in Project",
+        "SideBarEnhancements",
+        "Slack",
+        "SublimeCodeIntel",
+        "SublimeLinter",
+        "SublimeLinter-jshint",
+        "SublimeLinter-pep8",
+        "Theme - Soda",
+        "WakaTime",
+        "WordCount"
+    ]
+}
