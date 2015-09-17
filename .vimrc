@@ -13,6 +13,10 @@ Bundle 'klen/python-mode'
 Bundle 'davidhalter/jedi-vim'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'loremipsum'
+Bundle 'nathanaelkane/vim-indent-guides'
+Bundle 'jiangmiao/auto-pairs'
+Bundle 'Glench/Vim-Jinja2-Syntax'
+Bundle 'mattn/emmet-vim'
 
 " The bundles you install will be listed here
 
@@ -36,3 +40,6 @@ set laststatus=2
 syntax enable
 set background=dark
 colorscheme solarized
+
+" IndentGuide setup
+autocmd FileType python :IndentGuidesEnable
